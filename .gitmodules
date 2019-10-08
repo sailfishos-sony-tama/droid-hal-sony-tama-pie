@@ -12,8 +12,8 @@
 	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-qcacld-3.0
 [submodule "kernel/sony/msm-4.9/kernel"]
 	path = kernel/sony/msm-4.9/kernel
-	url = https://github.com/mer-hybris/android_kernel_sony_msm
-	branch = hybris-sony-aosp-9.0.0_r37_20190620
+	url = https://github.com/sailfishos-sony-tama/android_kernel_sony_msm
+	branch = hybris-sony-aosp-9.0.0_r37_20190620-tama
 [submodule "hybris/hybris-boot"]
 	path = hybris/hybris-boot
 	url = https://github.com/mer-hybris/hybris-boot
