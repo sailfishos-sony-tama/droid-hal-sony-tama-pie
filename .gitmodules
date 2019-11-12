@@ -16,7 +16,7 @@
 	branch = hybris-sony-aosp-9.0.0_r37_20190620-tama
 [submodule "hybris/hybris-boot"]
 	path = hybris/hybris-boot
-	url = https://github.com/sailfishos-sony-tama/hybris-boot
+	url = https://github.com/mer-hybris/hybris-boot
 [submodule "hybris/mer-kernel-check"]
 	path = hybris/mer-kernel-check
 	url = https://github.com/mer-hybris/mer-kernel-check
