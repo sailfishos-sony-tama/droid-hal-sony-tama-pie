@@ -1,6 +1,6 @@
 [submodule "dhd"]
 	path = dhd
-	url = https://github.com/mer-hybris/droid-hal-device
+	url = https://github.com/thaodan/droid-hal-device
 [submodule "fw-api"]
 	path = fw-api
 	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-fw-api
