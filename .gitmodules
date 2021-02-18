@@ -3,8 +3,7 @@
 	url = https://github.com/mer-hybris/droid-hal-device
 [submodule "kernel/sony/msm-4.14/kernel"]
 	path = kernel/sony/msm-4.14/kernel
-	url = https://github.com/mer-hybris/android_kernel_sony_msm
-	branch = hybris-sony-aosp/LA.UM.7.1.r1
+	url = https://github.com/sailfishos-sony-tama/android_kernel_sony_msm
 [submodule "hybris/hybris-boot"]
 	path = hybris/hybris-boot
 	url = https://github.com/mer-hybris/hybris-boot
