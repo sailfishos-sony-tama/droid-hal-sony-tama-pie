@@ -6,7 +6,7 @@
 	url = https://github.com/sailfishos-sony-tama/android_kernel_sony_msm
 [submodule "hybris/hybris-boot"]
 	path = hybris/hybris-boot
-	url = https://github.com/mer-hybris/hybris-boot
+	url = https://github.com/sailfishos-sony-tama/hybris-boot
 [submodule "hybris/mer-kernel-check"]
 	path = hybris/mer-kernel-check
 	url = https://github.com/mer-hybris/mer-kernel-check
